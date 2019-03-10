@@ -58,7 +58,7 @@ public class ModifyOk extends HttpServlet {
 			
 			System.out.println("OK");
 			
-			String query = "update member set name ='" + name + "',phone1 = '" + phone1 + "',phone2 = '" + phone2 + "',phone3 = '" + phone3 + "', gender ='" + gender + "'";
+			String query = "update member set name ='" + name + "',phone1 = '" + phone1 + "',phone2 = '" + phone2 + "',phone3 = '" + phone3 + "', gender ='" + gender + "'where pw = '" + pw + "'";
 			
 			try {
 				Class.forName("com.mysql.jdbc.Driver");

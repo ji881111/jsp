@@ -1,7 +1,0 @@
-package com.javalec.ex;
-
-import javax.servlet.http.HttpServlet;
-
-public class LogInOk extends HttpServlet {
-
-}

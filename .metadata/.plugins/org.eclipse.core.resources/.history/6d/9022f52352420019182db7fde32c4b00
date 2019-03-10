@@ -1,9 +1,0 @@
-package com.javalec.ex;
-
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-
-@WebServlet("/LogInOk")
-public class LogInOk extends HttpServlet {
-
-}

@@ -1,3 +1,0 @@
-INDEX VERSION 1.130+/Users/hwangjieun/eclipse-workspace/javalec/.metadata/.plugins/org.eclipse.jdt.core
-1420255972.index
-4239280039.index
